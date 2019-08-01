@@ -1,0 +1,2 @@
+# Visualizing-and-specifying-drone-flying-path-in-tablet-based-AR
+To improve people's productivity in various scenarios in workplace, human-machine interaction is becoming more and more important today. Due to the continuous expansion of the application of AR (Augmented Reality) technology in recent years, researchers believe that AR has the potential to become the way of the next generation of human-machine interaction. In this research project that used a tablet-based AR to control the trajectory of the drone.
